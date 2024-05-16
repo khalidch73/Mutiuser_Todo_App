@@ -23,7 +23,7 @@ psycopg2-binary = "^2.9.9"
 ```
 
 ```bash
-poetry insatll
+poetry install
 ```
 ## step:03 create .env file
 
